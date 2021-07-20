@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Assaf Gruengard
 - 👀 I’m interested in Automation
 - 🌱 I’m currently learning all I can about Via
-- 💞️ I’m looking to collaborate on FrontEnd and BackEnd Automation
+- 💞️ I’m looking to collaborate on Frontend and Backend Automation
 - 📫 How to reach me assaf.gruengard@ridewithvia.com
 
 <!---
