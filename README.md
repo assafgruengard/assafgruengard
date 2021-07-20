@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @assafgruengard
+- 👋 Hi, I’m Assaf Gruengard
 - 👀 I’m interested in Automation
 - 🌱 I’m currently learning all I can about Via
 - 💞️ I’m looking to collaborate on FrontEnd and BackEnd Automation
